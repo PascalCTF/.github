@@ -11,7 +11,7 @@ There are five types of challenge:
 * **Web Security** 🌐
 
 ## Sponsors ❤️
-To make this event **unforgettable**, we are seeking **sponsors** to support this effort. <br> If you're interested in funding future editions, please contact us by opening an issue on this [repository](https://github.com/PascalCTF/.github).
+To make this event **unforgettable**, we are seeking **sponsors** to support this effort. <br> If you're interested in funding future editions, please contact us at `alandavide.bovo.stud[at]ispascalcomandini.it`.
 
 ## License 📖
 All the softwares, scripts and codes are distributed under the [`GNU GPLv3 License`](https://choosealicense.com/licenses/gpl-3.0/).
